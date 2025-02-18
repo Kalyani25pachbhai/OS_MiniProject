@@ -1,1 +1,4 @@
-# OS_MiniProject
+# Sorting Visualizer
+
+**A static website for visualizing different comparison based sorting algorithms.**
+
